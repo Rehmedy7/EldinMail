@@ -1,0 +1,6 @@
+name: EldinMail
+description: Custom Mailing plugin for Eldin's Realm
+version: 0.1
+commands:
+  em:
+    description: Displays help for EldinMail.
